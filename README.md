@@ -1,3 +1,3 @@
 # Git Workshop Lab
-Learning Git and GitHub by working with a team
+Learning Git and GitHub through collaboration and teamwork.
 Welcome to the branching exercise.
